@@ -10,6 +10,26 @@ Minimal Vim colorschemes inspired by [tonsky's Alabaster theme](https://github.c
 * **alabaster-mono** - Light monochrome
 * **alabaster-dark-mono** - Dark monochrome
 
+### alabaster
+
+![alabaster](/assets/images/screenshot_0ab145e5-c335-404b-b93e-3906f42d773c.png)
+
+### alabaster-bg
+
+![alabaster-bg](/assets/images/screenshot_f0a58946-e4b7-417e-8b15-1355e14be6c2.png)
+
+### alabaster-dark
+
+![alabaster-dark](/assets/images/screenshot_7953c90a-03a0-44ff-8531-49ecd401ebfe.png)
+
+### alabaster-mono
+
+![alabaster-mono](/assets/images/screenshot_56d75c05-4ca7-4f66-8752-606301483728.png)
+
+### alabaster-dark-mono
+
+![alabaster-dark-mono](/assets/images/screenshot_59fdc83a-9804-4522-8227-660197446aa5.png)
+
 ## Requirements
 
 * Vim 8+ or Neovim
