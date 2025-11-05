@@ -22,13 +22,13 @@ Minimal Vim colorschemes inspired by [tonsky's Alabaster theme](https://github.c
 
 ![alabaster-dark](/assets/images/screenshot_7953c90a-03a0-44ff-8531-49ecd401ebfe.png)
 
-### alabaster-mono
-
-![alabaster-mono](/assets/images/screenshot_56d75c05-4ca7-4f66-8752-606301483728.png)
-
 ### alabaster-dark-mono
 
-![alabaster-dark-mono](/assets/images/screenshot_59fdc83a-9804-4522-8227-660197446aa5.png)
+![alabaster-dark-mono](/assets/images/screenshot_56d75c05-4ca7-4f66-8752-606301483728.png)
+
+### alabaster-mono
+
+![alabaster-mono](/assets/images/screenshot_59fdc83a-9804-4522-8227-660197446aa5.png)
 
 ## Requirements
 
