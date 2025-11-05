@@ -10,17 +10,43 @@ Minimal Vim colorschemes inspired by [tonsky's Alabaster theme](https://github.c
 * **alabaster-mono** - Light monochrome
 * **alabaster-dark-mono** - Dark monochrome
 
+## Requirements
+
+* Vim 8+ or Neovim
+* Terminal with true color support (or GUI Vim/Neovim)
+
 ## Installation
 
-Use your Vim plugin manager:
+### Using vim-plug
+
+Add to your `.vimrc` or `init.vim`:
 
 ```vim
+call plug#begin()
 Plug 'sderev/alabaster.vim'
+call plug#end()
+
+syntax enable
+set termguicolors
+
+colorscheme alabaster
+" Available variants: alabaster-bg, alabaster-dark, alabaster-mono, alabaster-dark-mono
 ```
 
-Then set your colorscheme:
+Then run `:PlugInstall` in Vim.
+
+### Manual installation
+
+```bash
+mkdir -p ~/.vim/colors
+cp /path/to/alabaster.vim/colors/*.vim ~/.vim/colors/
+```
+
+Add to your `.vimrc`:
 
 ```vim
+syntax enable
+set termguicolors
+
 colorscheme alabaster
-" or: alabaster-bg, alabaster-dark, alabaster-mono, alabaster-dark-mono
 ```
